@@ -15,9 +15,13 @@ h1 {
   width: 50%;
 }
 
+nav
+{
+  text-align: center;
+}
+
 nav a {
   padding-left: 10px;
   padding-right: 10px;
   background-color: #B8CAFE;
-  text-align: center;
 }
