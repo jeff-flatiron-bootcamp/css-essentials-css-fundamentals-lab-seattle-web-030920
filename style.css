@@ -35,5 +35,10 @@ figcaption {
   text-align: center;
 }
 
-.featured-property
+.property-paragraph {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
